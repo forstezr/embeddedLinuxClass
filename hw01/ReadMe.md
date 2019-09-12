@@ -10,6 +10,6 @@ To run part 6 of hw simply run the program using ./hw01.py and the program will 
 ## Prof. Yoder's comments
 
 Everything looks good.  Your etch-a-sketch works.
-No post on main Google Group
+No write permission on repo.
 
-Grade:  10/10
+Grade:  9/10
