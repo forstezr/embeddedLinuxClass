@@ -13,6 +13,7 @@ Togglegpio.sh answers:
 5. Run htop and see how much processor you are using. ~18%
 6. Try different values for the sleep time (2nd argument). What's the shortest period you can get? Make a table of the values you try and the corresponding period and processor usage.
 |  sTime |   .sh   |   .py   |   .c    |
+| ------ |   ---   |   ---   |   --    |
 | 0.00001| 035.7ms | 600.1us | 288.0us |
 | 0.0001 | 038.2ms |   3.3ms | 03.20ms |
 |  0.001 | 055.5ms |  21.3ms | 021.0ms |
