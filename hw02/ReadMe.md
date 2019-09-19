@@ -66,3 +66,13 @@ Left  => P9_16
 Down  => P9_17
 Right => P9_18
 Shake => P9_11
+
+
+## Prof. Yoder's comments
+
+Very well documented.    I added some formatting to your table.  Look at it at
+https://github.com/forstezr/embeddedLinuxClass/tree/master/hw02 to see how it looks.
+
+Did the outputs really go to a negative voltate?
+
+Grade:  10/10
