@@ -12,11 +12,14 @@ Togglegpio.sh answers:
 4. Why do they differ? 100ms specifies the half period.
 5. Run htop and see how much processor you are using. ~18%
 6. Try different values for the sleep time (2nd argument). What's the shortest period you can get? Make a table of the values you try and the corresponding period and processor usage.
-|  sTime |   .sh   |   .py   |   .c    |
-| 0.00001| 035.7ms | 600.1us | 288.0us |
-| 0.0001 | 038.2ms |   3.3ms | 03.20ms |
-|  0.001 | 055.5ms |  21.3ms | 021.0ms |
-|  0.1   | 238.6ms | 201.5ms | 201.1ms |
+
+  sTime |   .sh   |   .py   |   .c    |
+ ------ |   ---   |   ---   |   --    |
+ 0.00001| 035.7ms | 600.1us | 288.0us |
+ 0.0001 | 038.2ms |   3.3ms | 03.20ms |
+  0.001 | 055.5ms |  21.3ms | 021.0ms |
+  0.1   | 238.6ms | 201.5ms | 201.1ms |
+  
 7. How stable is the period? Mostly stable with some blips
 8. Try launching something like vi. How stable is the period? still mostly stable (not at sleep time (0.00001)
 9. Try cleaning up togglegpio.sh and removing unneeded lines. Does it impact the period? not really. It still looks about the same.
@@ -63,3 +66,13 @@ Left  => P9_16
 Down  => P9_17
 Right => P9_18
 Shake => P9_11
+
+
+## Prof. Yoder's comments
+
+Very well documented.    I added some formatting to your table.  Look at it at
+https://github.com/forstezr/embeddedLinuxClass/tree/master/hw02 to see how it looks.
+
+Did the outputs really go to a negative voltate?
+
+Grade:  10/10
