@@ -8,3 +8,9 @@ Run TempAlert.py to use the alert function of the temp101 sensors.
 Part 2: EtchAsketch
 ===============================================
 Run EtchAsketchRot.py to use the rotary encoders to control the 8x8 led matrix. Additionally, use the shake button to clear the screen.
+
+## Prof. Yoder's comments
+
+Looks good.  
+
+Grade:  10/10
