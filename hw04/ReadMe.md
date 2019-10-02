@@ -21,7 +21,7 @@ To see these please fo to /exercises/displays/ili9341/fb/ and run the correspond
 
 ## Images to display from test
 ![memory map]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_121421.jpg?raw=true "Memory Map")
+(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_121421.jpg)
 
 ![Boris Normal]
 (https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_120651.jpg?raw=true "Boris Normal")
