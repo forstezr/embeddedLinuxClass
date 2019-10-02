@@ -20,19 +20,19 @@ I was able to run through the instructions for using the lcd screen and complete
 To see these please fo to /exercises/displays/ili9341/fb/ and run the corresponding functions as in the instructions.
 
 ![memory map]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_121421.jpg?raw=true "Memory Map")
+(https://github.com/forstezr/embeddedLinuxClass/tree/master/hw04/IMG_20191001_121421.jpg?raw=true "Memory Map")
 
 ![BorisNormal]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_120651.jpg?raw=true "Boris Normal")
+(https://github.com/forstezr/embeddedLinuxClass/tree/master/hw04/IMG_20191001_120651.jpg?raw=true "Boris Normal")
 
 ![BorisRotated]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_120754.jpg?raw=true "Boris Rotated")
+(https://github.com/forstezr/embeddedLinuxClass/tree/master/hw04/IMG_20191001_120754.jpg?raw=true "Boris Rotated")
 
 ![MovieNormal]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_123414.jpg?raw=true "Movie Normal")
+(https://github.com/forstezr/embeddedLinuxClass/tree/master/hw04/IMG_20191001_123414.jpg?raw=true "Movie Normal")
 
 ![MovieRotated]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_123523.jpg?raw=true "Movie Rotated")
+(https://github.com/forstezr/embeddedLinuxClass/tree/master/hw04/IMG_20191001_123523.jpg?raw=true "Movie Rotated")
 
 ![TextScreen]
-(https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_123721.jpg?raw=true "Text on Screen")
+(https://github.com/forstezr/embeddedLinuxClass/tree/master/hw04/IMG_20191001_123721.jpg?raw=true "Text on Screen")
