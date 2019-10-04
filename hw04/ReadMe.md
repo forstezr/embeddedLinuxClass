@@ -31,3 +31,10 @@ To see these please fo to /exercises/displays/ili9341/fb/ and run the correspond
 ![Movie Rotated](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_123523.jpg?raw=true "Movie Rotated")
 
 ![Text Screen](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw04/IMG_20191001_123721.jpg?raw=true "Text on Screen")
+
+
+## Prof. Yoder's comments
+
+Very good.  Nice pictures.
+
+Grade:  10/10
