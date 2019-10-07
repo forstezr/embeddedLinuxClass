@@ -36,5 +36,6 @@ To see these please fo to /exercises/displays/ili9341/fb/ and run the correspond
 ## Prof. Yoder's comments
 
 Very good.  Nice pictures.
+Done early +2
 
-Grade:  10/10
+Grade:  12/10
