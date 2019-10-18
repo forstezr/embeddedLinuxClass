@@ -1,5 +1,4 @@
 ### Homework 6 Questions
-=====================================
 
 1. Where does Julia Cartwright work?
 
@@ -47,7 +46,6 @@
     The external event in figure 4 can start earlier because the interrupt handlers are threaded so the interrupts are handled in threads allowing other interrupts to be handled.
 
 ### Homework 6 PREEMPT_RT
-=====================================
 
 # Cyclictest without RT and no load
 
@@ -76,11 +74,14 @@ user	0m1.249s
 sys	    0m7.096s
 
 ## Plots
-===================================
+
+# Unloaded
 
 ![histogramUnloaded](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw06/unloaded.jpg?raw=true "Unloaded histogram")
 
 The plots are relatively similar however the rt version is bounded and doesn't have "noise" as the sleep duration increases.
+
+# Loaded
 
 ![histogramloaded](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw06/loaded.png?raw=true "loaded histogram")
 
