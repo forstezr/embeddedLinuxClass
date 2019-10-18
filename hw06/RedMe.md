@@ -75,6 +75,13 @@ real	1m45.538s
 user	0m1.249s
 sys	    0m7.096s
 
+## Plots
+===================================
 
+![histogramUnloaded](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw06/unloaded.png?raw=true "Unloaded histogram")
 
+The plots are relatively similar however the rt version is bounded and doesn't have "noise" as the sleep duration increases.
 
+![histogramloaded](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw06/loaded.png?raw=true "loaded histogram")
+
+These plots are also similar, I used make and make clean as a load. It looks to me like rt is still bounded.
