@@ -86,3 +86,11 @@ The plots are relatively similar however the rt version is bounded and doesn't h
 ![histogramloaded](https://github.com/forstezr/embeddedLinuxClass/blob/master/hw06/loaded.png?raw=true "loaded histogram")
 
 These plots are also similar, I used make and make clean as a load. It looks to me like rt is still bounded.
+
+## Prof. Yoder's comments
+Looks good.  
+
+Late: -1
+Grade:  9/10
+
+Project Wiki is not started 
