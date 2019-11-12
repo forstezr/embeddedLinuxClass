@@ -39,3 +39,8 @@ I ran this program and can clearly see the 30ns (on avg) delay between the input
 Looks like a good start, but not finished. 
 Don't forget to answer the questions for each part and update your scope_4.png.
 
+## Prof. Yoder's new comments
+Looks good.  
+
+Late: -1
+Grade:  9/10

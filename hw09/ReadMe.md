@@ -20,3 +20,11 @@ Here are some of the values I recorded:
 Here is a link to the sheet I used.    
 
 https://docs.google.com/spreadsheets/d/1wU4W15WxxVvf55hNO9BAHi8ndjGyglKdXenv92nZr0s/edit?usp=sharing
+
+## Prof. Yoder's comments
+
+Looks good.
+
+No ThingSpeak:  -2
+Grade:  8/10
+
